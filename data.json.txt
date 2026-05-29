@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "name": "Soil_Moisture_Report_May.pdf",
+    "size": "2.4 MB",
+    "date": "10 May, 2026",
+    "category": "researcher",
+    "subSection": "conventional",
+    "url": "#"
+  },
+  {
+    "id": "2",
+    "name": "Ground_Water_Survey_Vidarbha.csv",
+    "size": "1.1 MB",
+    "date": "08 May, 2026",
+    "state": "Maharashtra",
+    "district": "Amravati",
+    "category": "farmer",
+    "url": "#"
+  }
+]
