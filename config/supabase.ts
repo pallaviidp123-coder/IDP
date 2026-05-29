@@ -1,0 +1,5 @@
+export const SUPABASE_URL =
+  "https://tixjbusnkttwcrajotwd.supabase.co"
+
+export const SUPABASE_ANON_KEY =
+  "sb_publishable_vyx3h1aoN7t1TU9_H77MLQ_M6unbvP8"
